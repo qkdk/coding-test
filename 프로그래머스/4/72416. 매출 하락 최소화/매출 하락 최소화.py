@@ -46,6 +46,5 @@ def dfs(tree, start, dp, sales):
 
             minV = min(minV, tmp)
         dp[start][1] = minV
-        # print(minV)
         
         
