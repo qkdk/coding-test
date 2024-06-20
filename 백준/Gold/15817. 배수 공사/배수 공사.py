@@ -1,3 +1,5 @@
+# 중복을 제거해서 배낭문제를 푸는것이 어렵, 왼쪽부터가 아닌 오른쪽 부터 탐색
+
 import sys
 
 input = sys.stdin.readline
